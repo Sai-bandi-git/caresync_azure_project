@@ -1,0 +1,16 @@
+{
+	"name": "adfflmtest",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02203eb0-3929-4f4e-bcca-d93aba119bb2",
+		"tenantId": "86d14301-6a54-4086-8c3f-57244fe7deea"
+	}
+}
