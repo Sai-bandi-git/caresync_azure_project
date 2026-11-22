@@ -4,19 +4,19 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"server": "caresync-server.database.windows.net",
-			"database": "sql-db-caresync",
+			"server": "flmserver1001.database.windows.net",
+			"database": "FLMdb",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "databeli",
+			"userName": "admin21",
 			"password": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
 					"referenceName": "LS_AzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "metadata-db-password"
+				"secretName": "DBKeyFlmserver1001"
 			}
 		}
 	}
