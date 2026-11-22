@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "PostgreSqlV2",
 		"typeProperties": {
-			"server": "ep-tiny-field-b3tshqtb-pooler.c-4.ap-southeast-1.aws.neon.tech",
+			"server": "ep-steep-truth-b39a4zwr-pooler.c-4.ap-southeast-1.aws.neon.tech",
 			"port": 5432,
 			"database": "neondb",
 			"username": "neondb_owner",
@@ -14,7 +14,7 @@
 					"referenceName": "LS_AzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "postgres-password"
+				"secretName": "postgres-db"
 			},
 			"sslMode": 2,
 			"authenticationType": "Basic"
