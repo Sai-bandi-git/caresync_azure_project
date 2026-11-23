@@ -5,6 +5,10 @@
 			"env": {
 				"type": "string",
 				"value": "dev"
+			},
+			"email_receipent": {
+				"type": "string",
+				"value": "saibandi2109@gmail.com"
 			}
 		},
 		"trustModeClaimForMi": {
