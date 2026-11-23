@@ -9,6 +9,10 @@
 			"email_receipent": {
 				"type": "string",
 				"value": "saibandi2109@gmail.com"
+			},
+			"logic_apps_url": {
+				"type": "string",
+				"value": "Paste the HTTP POST trigger URL from your LogicApp_forEmail"
 			}
 		},
 		"trustModeClaimForMi": {
