@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://deladlgen2.dfs.core.windows.net/"
+			"url": "https://stdataenglearning2026.dfs.core.windows.net/"
 		}
 	}
 }
