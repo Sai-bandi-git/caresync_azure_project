@@ -18,7 +18,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "@dataset().folder",
+				"folderPath": "@dataset().folder",
 				"fileSystem": {
 					"value": "@dataset().container",
 					"type": "Expression"

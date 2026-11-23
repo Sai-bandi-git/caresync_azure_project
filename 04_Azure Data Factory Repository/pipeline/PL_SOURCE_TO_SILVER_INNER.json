@@ -431,7 +431,7 @@
 											"type": "DatasetReference",
 											"parameters": {
 												"folder": {
-													"value": "@concat(activity('Read Table Details').output.firstRow.source_path, '*.csv')",
+													"value": "@activity('Read Table Details').output.firstRow.source_path",
 													"type": "Expression"
 												},
 												"container": "source"
