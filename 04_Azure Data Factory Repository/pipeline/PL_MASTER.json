@@ -103,13 +103,7 @@
 						"referenceName": "PL_SEND_EMAIL",
 						"type": "PipelineReference"
 					},
-					"waitOnCompletion": true,
-					"parameters": {
-						"adf_run_id": {
-							"value": "@pipeline().RunId",
-							"type": "Expression"
-						}
-					}
+					"waitOnCompletion": true
 				}
 			}
 		],
