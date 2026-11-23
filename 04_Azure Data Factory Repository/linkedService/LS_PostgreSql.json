@@ -5,7 +5,7 @@
 		"type": "PostgreSqlV2",
 		"typeProperties": {
 			"server": "ep-steep-truth-b39a4zwr-pooler.c-4.ap-southeast-1.aws.neon.tech",
-			"port": 5432,
+			"port": "5432",
 			"database": "neondb",
 			"username": "neondb_owner",
 			"password": {
