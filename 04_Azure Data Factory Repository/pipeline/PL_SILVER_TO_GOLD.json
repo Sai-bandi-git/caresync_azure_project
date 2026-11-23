@@ -136,7 +136,7 @@
 							"userProperties": [],
 							"typeProperties": {
 								"notebookPath": {
-									"value": "/caresync-repo/caresync-adb-repo/Gold/NB_@{item().gold_table_name}",
+									"value": "/Workspace/Users/saibandi2109@gmail.com/caresync_azure_project/05_Databricks_Repository/Gold/\n/NB_@{item().gold_table_name}",
 									"type": "Expression"
 								}
 							},

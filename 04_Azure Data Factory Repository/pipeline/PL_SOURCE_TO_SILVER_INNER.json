@@ -68,7 +68,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/caresync-repo/caresync-adb-repo/Landing_to_Bronze",
+					"notebookPath": "/Users/saibandi2109@gmail.com/caresync_azure_project/05_Databricks_Repository/Landing_to_Bronze",
 					"baseParameters": {
 						"source_system": {
 							"value": "@activity('Read Table Details').output.firstRow.source_system",
@@ -113,7 +113,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/caresync-repo/caresync-adb-repo/Bronze_to_Silver",
+					"notebookPath": "/Users/saibandi2109@gmail.com/caresync_azure_project/05_Databricks_Repository/Bronze_to_Silver",
 					"baseParameters": {
 						"table_name": {
 							"value": "@activity('Read Table Details').output.firstRow.silver_table_name",
