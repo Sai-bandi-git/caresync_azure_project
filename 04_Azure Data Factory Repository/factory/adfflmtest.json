@@ -9,6 +9,10 @@
 			"email_receipents": {
 				"type": "string",
 				"value": "bandisaikumar1290@gmail.com"
+			},
+			"logic_apps_url": {
+				"type": "string",
+				"value": "https://prod-23.centralindia.logic.azure.com:443/workflows/df183c99441d4ef08c7595a9f3f7b1ae/triggers/When_an_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_an_HTTP_request_is_received%2Frun&sv=1.0&sig=9l0JFV5thaAN6fStRn5rvMrCRJF5aTbx4yX7P50WT10"
 			}
 		},
 		"trustModeClaimForMi": {
