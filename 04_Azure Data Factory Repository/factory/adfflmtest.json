@@ -6,7 +6,7 @@
 				"type": "string",
 				"value": "dev"
 			},
-			"email_receipent": {
+			"email_recipients": {
 				"type": "string",
 				"value": "bandisaikumar1290@gmail.com"
 			},
