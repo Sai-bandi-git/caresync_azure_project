@@ -85,6 +85,7 @@
 			},
 			{
 				"name": "Send Email",
+				"description": "",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
